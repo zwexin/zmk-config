@@ -7,9 +7,9 @@
         compatible = "zmk,keymap";
         default {
             bindings = <
-                &kp KP_NUM &kp KP_DIV &kp KP_MULT
-                &kp KP_N7  &kp KP_N8  &kp KP_N9 
-                &kp KP_N4  &kp KP_N5  &kp KP_N6
+                &kp A &kp B &kp C
+                &kp E &kp F &kp G 
+                &kp H &kp I &kp J
             >;
         };
     }
