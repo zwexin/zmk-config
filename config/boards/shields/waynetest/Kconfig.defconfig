@@ -1,0 +1,6 @@
+if SHIELD_WAYNETEST
+
+config ZMK_KEYBOARD_NAME
+    default "waynetest"
+
+endif
